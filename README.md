@@ -4,7 +4,7 @@ Promo package for **RISE Summit 2027**, a fictional clean-tech and AI conference
 It has a poster and a 12-second teaser video. Both use a rising sun in amber and teal on night blue, with glitch effects and a countdown.
 
 ## Poster
-Poster 4 5@1x.png
+![RISE Summit 2027 poster](Poster%204%205%401x.png)
 
 - Format: 4:5 portrait, 1080 × 1350 px
 - Glitch title with RGB-split layers and shifted slices
@@ -34,7 +34,7 @@ Poster 4 5@1x.png
 | Dawn | `#FFF7E8` |
 
 ## Files
-- `Poster_4_5_1x.png` – event poster
+- `poster.png` – event poster
 - `rise-summit-teaser.mp4` – teaser video
 
 ## Notes
